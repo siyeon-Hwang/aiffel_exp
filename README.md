@@ -11,23 +11,23 @@ Aiffel에서 진행한 Exploration / GoingDeeper(NLP과정) 을 정리했습니�
 |5|[Kaggle_Housing]([E-05]kaggle_housing.ipynb)|kaggle의 housing 데이터로 성능 높이기| |
 |6|[Sentiment_classification]([E-06]Sentiment_classification.ipynb)| | |
 |7|[Sementic_Segmentation](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-07%5D%20semantic_segmentation.ipynb)| | |
-|8|[News_Summary]([E-08] News_summary.ipynb)| | |
-|9|[Chest_Xray]([E-09] chest_xray.ipynb)| | |
-|10|[GAN_cifar10]([E-10] GAN_cifar10.ipynb)| | |
-|11|[Stock_Forecast]([E-11] stock_forecast.ipynb)| | |
-|12|[Chatbot_Attention]([E-12] chatbot_attention.ipynb)| | |
-|13|[BERT_Quiz]([E-13] BERT_quiz.ipynb)| | |
-|14|[Recommend_System]([E-14] recommend system.ipynb)| | |
+|8|[News_Summary](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-08%5D%20News_summary.ipynb)| | |
+|9|[Chest_Xray](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-09%5D%20chest_xray.ipynb)| | |
+|10|[GAN_cifar10](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-10%5D%20GAN_cifar10.ipynb)| | |
+|11|[Stock_Forecast](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-11%5D%20stock_forecast.ipynb)| | |
+|12|[Chatbot_Attention](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-12%5D%20chatbot_attention.ipynb)| | |
+|13|[BERT_Quiz](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-13%5D%20BERT_quiz.ipynb)| | |
+|14|[Recommend_System](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BE-14%5D%20recommend%20system.ipynb)| | |
 
 - GoingDeeper(NLP)
 
 |No|Project|Contents|Skill|
 |:---:|:-------:|:-------:|:-----:|
-|1|[SentencePiece]([NLP-01] SentencePiece.ipynb)| | |
-|2|[Vocabulary_Size]([NLP-02] Vocabulary Size.ipynb)| | |
-|3|[WEAT_score]([NLP-03] WEAT score.ipynb)| | |
-|4|[Seq2seq_Translator]([NLP-04] Seq2seq Translator.ipynb)| | |
-|5|[Transformer_Translator]([NLP-05] Transformer Translator.ipynb)| | |
-|6|[Transformer_Chatbot]([NLP-06] Transformer Chatbot.ipynb)| | |
+|1|[SentencePiece](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-01%5D%20SentencePiece.ipynb)| | |
+|2|[Vocabulary_Size](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-02%5D%20Vocabulary%20Size.ipynb)| | |
+|3|[WEAT_score](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-03%5D%20WEAT%20score.ipynb)| | |
+|4|[Seq2seq_Translator](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-04%5D%20Seq2seq%20Translator.ipynb)| | |
+|5|[Transformer_Translator](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-05%5D%20Transformer%20Translator.ipynb)| | |
+|6|[Transformer_Chatbot](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-06%5D%20Transformer%20Chatbot.ipynb)| | |
 |7|[]()| | |
-|8|[Huggingface_Customize]([NLP-08] Huggingface Customize.ipynb)| | |
+|8|[Huggingface_Customize](https://github.com/siyeon-Hwang/aiffel_exp/blob/main/%5BNLP-08%5D%20Huggingface%20Customize.ipynb)| | |
