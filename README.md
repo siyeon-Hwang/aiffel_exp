@@ -10,7 +10,7 @@ Aiffel에서 진행한 Exploration / GoingDeeper(NLP과정) 을 정리했습니�
 |4|[Lyricist]([E-04]Lyricist.ipynb)|가사 데이터로 작곡 인공지능 만들기|LSTM|
 |5|[Kaggle_Housing]([E-05]kaggle_housing.ipynb)|kaggle의 housing 데이터로 성능 높이기| |
 |6|[Sentiment_classification]([E-06]Sentiment_classification.ipynb)| | |
-|7|[Sementic_Segmentation]([E-07]semantic_segmentation.ipynb)| | |
+|7|[Sementic_Segmentation]([E-07]\ semantic_segmentation.ipynb)| | |
 |8|[News_Summary]([E-08] News_summary.ipynb)| | |
 |9|[Chest_Xray]([E-09] chest_xray.ipynb)| | |
 |10|[GAN_cifar10]([E-10] GAN_cifar10.ipynb)| | |
